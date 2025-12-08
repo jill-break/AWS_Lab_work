@@ -34,7 +34,7 @@ This assessment demonstrates the ability to:
 AWS/
 ├── README.md                          # Project overview and approach
 ├── aws_waf_caf_assessment.md          # Complete assessment document with all deliverables
-└── architecture_diagram.png           # PNG file 
+└── architecture_diagram.pdf           # PDF file 
 
 ```
 
