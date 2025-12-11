@@ -34,7 +34,7 @@ This assessment demonstrates the ability to:
 AWS/
 ├── README.md                          # Project overview and approach
 ├── aws_waf_caf_assessment.md          # Complete assessment document with all deliverables
-└── architecture_diagram.pdf           # PDF file 
+└── architecture_diagram.pdf           # PDF file (Used a PDF file to prevent blurriness of the architecture) 
 
 ```
 
@@ -82,9 +82,8 @@ Designed improved AWS architecture featuring:
 
 
 
-##  Proposed Architecture Highlights
+##  Proposed Architecture 
 
-### Key Components
 
 | Layer | AWS Service | Purpose |
 |-------|-------------|---------|
